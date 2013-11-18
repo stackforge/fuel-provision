@@ -1,0 +1,10 @@
+[DEFAULT]
+galloper_api_host = 0.0.0.0
+galloper_api_port = 9999
+galloper_cli_user_agent = galloper-cli
+
+debug=true
+verbose=true
+log_file = /var/tmp/galloper-cli.log
+use_stderr=false
+
