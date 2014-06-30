@@ -1,10 +1,10 @@
-pecan>=0.4.2
-WSME==0.5b6.8.gf191f32
+pecan>=0.4.5
+WSME>=0.6
 requests>=2.0.1
 SQLAlchemy>=0.8.3
 wsgiref>=0.1.2
-pbr>=0.5.23
-PyYAML>=3.10
-oslo.config>=1.2.0
-iso8601>=0.1.8
+pbr>=0.6,!=0.7,!1.0
+PyYAML>=3.1.0
+oslo.config>=1.2.1
+iso8601>=0.1.9
 eventlet>=0.14.0
